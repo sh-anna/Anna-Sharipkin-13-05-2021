@@ -10,22 +10,6 @@
 2.	Push your code to your git repository and make it public (we recommend GitHub in order to use GitHub), name the repo as firstName-lastName-dateOfStart (John-Doe-01-12-2018).
 3.	### Please don’t use our repository for submitting your code.
 
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
 ### Good Luck ###
 
 Herolo Team.
