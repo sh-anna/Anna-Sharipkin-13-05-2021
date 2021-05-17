@@ -1,0 +1,6 @@
+a.
+
+b. 
+Includes the header template for a theme or if a name is specified then a specialised header will be included.
+
+If the theme contains no header.php file then the header from the default theme wp-includes/theme-compat/header.php will be included.
