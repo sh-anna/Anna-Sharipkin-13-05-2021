@@ -798,3 +798,303 @@
     "coord": {
       "lon": 141.346603,
       "lat": 43.06451
+}
+  },
+  {
+    "id": 6199126,
+    "name": "Sanggrahan",
+    "country": "ID",
+    "coord": {
+      "lon": 110.246109,
+      "lat": -7.46056
+    }
+  },
+  {
+    "id": 6388445,
+    "name": "Karangmangle",
+    "country": "ID",
+    "coord": {
+      "lon": 109.0075,
+      "lat": -7.43028
+    }
+  },
+  {
+    "id": 494806,
+    "name": "Sheremetyevskiy",
+    "country": "RU",
+    "coord": {
+      "lon": 37.491112,
+      "lat": 55.98
+    }
+  },
+  {
+    "id": 467104,
+    "name": "Yershovo",
+    "country": "RU",
+    "coord": {
+      "lon": 36.858055,
+      "lat": 55.771111
+    }
+  },
+  {
+    "id": 462352,
+    "name": "Znamenka",
+    "country": "RU",
+    "coord": {
+      "lon": 35.981392,
+      "lat": 52.896671
+    }
+  },
+  {
+    "id": 2267057,
+    "name": "Lisbon",
+    "country": "PT",
+    "coord": {
+      "lon": -9.13333,
+      "lat": 38.716671
+    }
+  },
+  {
+    "id": 3082707,
+    "name": "Walbrzych",
+    "country": "PL",
+    "coord": {
+      "lon": 16.284321,
+      "lat": 50.771412
+    }
+  },
+  {
+    "id": 3091150,
+    "name": "Naklo nad Notecia",
+    "country": "PL",
+    "coord": {
+      "lon": 17.60181,
+      "lat": 53.142139
+    }
+  },
+  {
+    "id": 1784658,
+    "name": "Zhengzhou",
+    "country": "CN",
+    "coord": {
+      "lon": 113.648613,
+      "lat": 34.757778
+    }
+  },
+  {
+    "id": 7301040,
+    "name": "Tonyrefail",
+    "country": "GB",
+    "coord": {
+      "lon": -3.41503,
+      "lat": 51.580238
+    }
+  },
+  {
+    "id": 1348747,
+    "name": "Bankra",
+    "country": "IN",
+    "coord": {
+      "lon": 88.298058,
+      "lat": 22.627501
+    }
+  },
+  {
+    "id": 6255148,
+    "name": "Europe",
+    "country": "",
+    "coord": {
+      "lon": 9.140625,
+      "lat": 48.69096
+    }
+  },
+  {
+    "id": 524925,
+    "name": "Moskovskaya Oblast’",
+    "country": "RU",
+    "coord": {
+      "lon": 37.628334,
+      "lat": 55.75639
+    }
+  },
+  {
+    "id": 4047656,
+    "name": "Provo",
+    "country": "US",
+    "coord": {
+      "lon": -94.107697,
+      "lat": 34.037609
+    }
+  },
+  {
+    "id": 5493998,
+    "name": "Tejon",
+    "country": "US",
+    "coord": {
+      "lon": -105.28611,
+      "lat": 34.58979
+    }
+  },
+  {
+    "id": 1463749,
+    "name": "Guliston",
+    "country": "UZ",
+    "coord": {
+      "lon": 65.518929,
+      "lat": 38.510029
+    }
+  },
+  {
+    "id": 749184,
+    "name": "Ciciler",
+    "country": "TR",
+    "coord": {
+      "lon": 30.063601,
+      "lat": 40.442982
+    }
+  },
+  {
+    "id": 750594,
+    "name": "Bilmece",
+    "country": "TR",
+    "coord": {
+      "lon": 36.150002,
+      "lat": 41.150002
+    }
+  },
+  {
+    "id": 3113208,
+    "name": "Provincia de Pontevedra",
+    "country": "ES",
+    "coord": {
+      "lon": -8.5,
+      "lat": 42.5
+    }
+  },
+  {
+    "id": 2653753,
+    "name": "Carmarthenshire",
+    "country": "GB",
+    "coord": {
+      "lon": -4.16667,
+      "lat": 51.833328
+    }
+  },
+  {
+    "id": 658226,
+    "name": "Helsinki",
+    "country": "FI",
+    "coord": {
+      "lon": 24.93417,
+      "lat": 60.17556
+    }
+  },
+  {
+    "id": 2744819,
+    "name": "Gemeente Wervershoof",
+    "country": "NL",
+    "coord": {
+      "lon": 5.13333,
+      "lat": 52.716671
+    }
+  },
+  {
+    "id": 3017680,
+    "name": "Forville",
+    "country": "FR",
+    "coord": {
+      "lon": 6.6239,
+      "lat": 44.913849
+    }
+  },
+  {
+    "id": 448961,
+    "name": "Tall ‘Alāwī",
+    "country": "IQ",
+    "coord": {
+      "lon": 44.552891,
+      "lat": 31.59358
+    }
+  },
+  {
+    "id": 3007202,
+    "name": "La Portanière",
+    "country": "FR",
+    "coord": {
+      "lon": 6.17341,
+      "lat": 43.248611
+    }
+  },
+  {
+    "id": 2650353,
+    "name": "East Portlemouth",
+    "country": "GB",
+    "coord": {
+      "lon": -3.75578,
+      "lat": 50.232159
+    }
+  },
+  {
+    "id": 2058430,
+    "name": "Whyalla",
+    "country": "AU",
+    "coord": {
+      "lon": 137.583328,
+      "lat": -33.033329
+    }
+  },
+  {
+    "id": 2181258,
+    "name": "Terrace End",
+    "country": "NZ",
+    "coord": {
+      "lon": 175.616669,
+      "lat": -40.349998
+    }
+  },
+  {
+    "id": 2130135,
+    "name": "Hashimoto",
+    "country": "JP",
+    "coord": {
+      "lon": 140.75,
+      "lat": 40.816669
+    }
+  },
+  {
+    "id": 2110681,
+    "name": "Tsukuba-kenkyūgakuen-toshi",
+    "country": "JP",
+    "coord": {
+      "lon": 140.116669,
+      "lat": 36.083328
+    }
+  },
+  {
+    "id": 1862845,
+    "name": "Higashi-asahimachi",
+    "country": "JP",
+    "coord": {
+      "lon": 133.066666,
+      "lat": 35.466671
+    }
+  },
+  {
+    "id": 1863250,
+    "name": "Hanabatachō",
+    "country": "JP",
+    "coord": {
+      "lon": 130.699997,
+      "lat": 32.799999
+    }
+  },
+  {
+    "id": 1852699,
+    "name": "Senzaki",
+    "country": "JP",
+    "coord": {
+      "lon": 131.199997,
+      "lat": 34.383331
+    }
+  },
+  {
