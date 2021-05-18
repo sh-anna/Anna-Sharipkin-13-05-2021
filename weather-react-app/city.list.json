@@ -248,3 +248,303 @@
     "country": "NG",
     "coord": {
       "lon": 9.997027,
+      "lat": 10.062094
+    }
+  },
+  {
+    "id": 2051302,
+    "name": "Priiskovyy",
+    "country": "RU",
+    "coord": {
+      "lon": 132.822495,
+      "lat": 42.819168
+    }
+  },
+  {
+    "id": 563692,
+    "name": "Dzhaga",
+    "country": "RU",
+    "coord": {
+      "lon": 42.650002,
+      "lat": 43.25
+    }
+  },
+  {
+    "id": 481725,
+    "name": "Tret’ya Rota",
+    "country": "RU",
+    "coord": {
+      "lon": 39.681389,
+      "lat": 43.741943
+    }
+  },
+  {
+    "id": 2638976,
+    "name": "Ruislip",
+    "country": "GB",
+    "coord": {
+      "lon": -0.42341,
+      "lat": 51.573441
+    }
+  },
+  {
+    "id": 2892705,
+    "name": "Karow",
+    "country": "DE",
+    "coord": {
+      "lon": 13.48117,
+      "lat": 52.609039
+    }
+  },
+  {
+    "id": 2922336,
+    "name": "Gatow",
+    "country": "DE",
+    "coord": {
+      "lon": 13.18285,
+      "lat": 52.483238
+    }
+  },
+  {
+    "id": 975511,
+    "name": "Mkuze",
+    "country": "ZA",
+    "coord": {
+      "lon": 32.038609,
+      "lat": -27.616409
+    }
+  },
+  {
+    "id": 1280737,
+    "name": "Lhasa",
+    "country": "CN",
+    "coord": {
+      "lon": 91.099998,
+      "lat": 29.65
+    }
+  },
+  {
+    "id": 745042,
+    "name": "İstanbul",
+    "country": "TR",
+    "coord": {
+      "lon": 28.983311,
+      "lat": 41.03508
+    }
+  },
+  {
+    "id": 3496831,
+    "name": "Mao",
+    "country": "DO",
+    "coord": {
+      "lon": -71.078133,
+      "lat": 19.551861
+    }
+  },
+  {
+    "id": 2017370,
+    "name": "Russian Federation",
+    "country": "RU",
+    "coord": {
+      "lon": 100,
+      "lat": 60
+    }
+  },
+  {
+    "id": 2045761,
+    "name": "De-Friz",
+    "country": "RU",
+    "coord": {
+      "lon": 131.991394,
+      "lat": 43.27861
+    }
+  },
+  {
+    "id": 1257986,
+    "name": "Rumbak",
+    "country": "IN",
+    "coord": {
+      "lon": 77.416664,
+      "lat": 34.049999
+    }
+  },
+  {
+    "id": 476350,
+    "name": "Vavibet",
+    "country": "RU",
+    "coord": {
+      "lon": 34.916668,
+      "lat": 67.933334
+    }
+  },
+  {
+    "id": 1343000,
+    "name": "Surtagān Chib",
+    "country": "PK",
+    "coord": {
+      "lon": 64.656113,
+      "lat": 26.474443
+    }
+  },
+  {
+    "id": 456169,
+    "name": "Rīgas Rajons",
+    "country": "LV",
+    "coord": {
+      "lon": 24.333332,
+      "lat": 57
+    }
+  },
+  {
+    "id": 475279,
+    "name": "Verkhneye Shchekotikhino",
+    "country": "RU",
+    "coord": {
+      "lon": 36.133331,
+      "lat": 53
+    }
+  },
+  {
+    "id": 711349,
+    "name": "Bucha",
+    "country": "UA",
+    "coord": {
+      "lon": 30.366671,
+      "lat": 50.583328
+    }
+  },
+  {
+    "id": 798544,
+    "name": "Republic of Poland",
+    "country": "PL",
+    "coord": {
+      "lon": 20,
+      "lat": 52
+    }
+  },
+  {
+    "id": 3094325,
+    "name": "Kuchary",
+    "country": "PL",
+    "coord": {
+      "lon": 19.383329,
+      "lat": 52.150002
+    }
+  },
+  {
+    "id": 6255149,
+    "name": "North America",
+    "country": "",
+    "coord": {
+      "lon": -100.546883,
+      "lat": 46.073231
+    }
+  },
+  {
+    "id": 3575514,
+    "name": "Brumaire",
+    "country": "KN",
+    "coord": {
+      "lon": -62.73333,
+      "lat": 17.299999
+    }
+  },
+  {
+    "id": 1861387,
+    "name": "Ishikawa-ken",
+    "country": "JP",
+    "coord": {
+      "lon": 136.770493,
+      "lat": 36.77145
+    }
+  },
+  {
+    "id": 1857578,
+    "name": "Matoba",
+    "country": "JP",
+    "coord": {
+      "lon": 133.949997,
+      "lat": 34.25
+    }
+  },
+  {
+    "id": 1299298,
+    "name": "Pya",
+    "country": "MM",
+    "coord": {
+      "lon": 95.599998,
+      "lat": 21.51667
+    }
+  },
+  {
+    "id": 3256023,
+    "name": "Kalanac",
+    "country": "BA",
+    "coord": {
+      "lon": 18.78389,
+      "lat": 44.86861
+    }
+  },
+  {
+    "id": 2921044,
+    "name": "Federal Republic of Germany",
+    "country": "DE",
+    "coord": {
+      "lon": 10.5,
+      "lat": 51.5
+    }
+  },
+  {
+    "id": 2861876,
+    "name": "Land Nordrhein-Westfalen",
+    "country": "DE",
+    "coord": {
+      "lon": 7,
+      "lat": 51.5
+    }
+  },
+  {
+    "id": 802899,
+    "name": "Mutaykutan",
+    "country": "RU",
+    "coord": {
+      "lon": 47.660641,
+      "lat": 42.818859
+    }
+  },
+  {
+    "id": 523523,
+    "name": "Nalchik",
+    "country": "RU",
+    "coord": {
+      "lon": 43.618889,
+      "lat": 43.498058
+    }
+  },
+  {
+    "id": 546448,
+    "name": "Kolganov",
+    "country": "RU",
+    "coord": {
+      "lon": 40.066669,
+      "lat": 44.366669
+    }
+  },
+  {
+    "id": 500023,
+    "name": "Rybatskiy",
+    "country": "RU",
+    "coord": {
+      "lon": 44.166389,
+      "lat": 44.799171
+    }
+  },
+  {
+    "id": 2207349,
+    "name": "Bellara",
+    "country": "AU",
+    "coord": {
+      "lon": 153.149597,
+      "lat": -27.063919
+    }
+  },
