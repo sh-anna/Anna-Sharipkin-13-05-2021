@@ -1,0 +1,22 @@
+
+
+
+b.	$query = new WP_Query( array( ‘post_in’ => ‘array(7, 12) ) );
+
+post__in (array) – use post ids. Specify posts to retrieve. ATTENTION If you use sticky posts, they will be included (prepended!) in the posts you retrieve whether you want it or not. To suppress this behaviour use ignore_sticky_posts.
+
+
+
+c.	$query = new WP_Query( array( ‘p’ => 7 ) );
+
+Display content based on post by ID.
+
+
+
+e.	$query = new WP_Query( array( ‘tax_query’ => array(array( ‘taxonomy’ => ‘books’,
+terms’ => ‘drama’, ‘field’ => ‘slug’ ) ) ) );
+
+tax_query takes an array of tax query arguments arrays (it takes an array of arrays).
+This construct allows you to query multiple taxonomies by using the relation parameter in the first (outer) array to describe the boolean relationship between the taxonomy arrays.
+
+

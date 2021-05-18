@@ -1,0 +1,2 @@
+The script tag should be inserted within the <head> element of the header.php file
+
